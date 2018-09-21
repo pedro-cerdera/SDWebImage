@@ -1,6 +1,3 @@
 [submodule "Vendors/FLAnimatedImage"]
 	path = Vendors/FLAnimatedImage
 	url = https://github.com/Flipboard/FLAnimatedImage.git
-[submodule "Vendors/libwebp"]
-	path = Vendors/libwebp
-	url = https://github.com/webmproject/libwebp.git
